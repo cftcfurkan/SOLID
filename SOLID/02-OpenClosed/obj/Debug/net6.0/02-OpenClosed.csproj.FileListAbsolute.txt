@@ -1,0 +1,14 @@
+C:\Users\Yeşim\source\repos\SOLID\02-OpenClosed\bin\Debug\net6.0\02-OpenClosed.exe
+C:\Users\Yeşim\source\repos\SOLID\02-OpenClosed\bin\Debug\net6.0\02-OpenClosed.deps.json
+C:\Users\Yeşim\source\repos\SOLID\02-OpenClosed\bin\Debug\net6.0\02-OpenClosed.runtimeconfig.json
+C:\Users\Yeşim\source\repos\SOLID\02-OpenClosed\bin\Debug\net6.0\02-OpenClosed.dll
+C:\Users\Yeşim\source\repos\SOLID\02-OpenClosed\bin\Debug\net6.0\ref\02-OpenClosed.dll
+C:\Users\Yeşim\source\repos\SOLID\02-OpenClosed\bin\Debug\net6.0\02-OpenClosed.pdb
+C:\Users\Yeşim\source\repos\SOLID\02-OpenClosed\obj\Debug\net6.0\02-OpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeşim\source\repos\SOLID\02-OpenClosed\obj\Debug\net6.0\02-OpenClosed.AssemblyInfoInputs.cache
+C:\Users\Yeşim\source\repos\SOLID\02-OpenClosed\obj\Debug\net6.0\02-OpenClosed.AssemblyInfo.cs
+C:\Users\Yeşim\source\repos\SOLID\02-OpenClosed\obj\Debug\net6.0\02-OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\Yeşim\source\repos\SOLID\02-OpenClosed\obj\Debug\net6.0\02-OpenClosed.dll
+C:\Users\Yeşim\source\repos\SOLID\02-OpenClosed\obj\Debug\net6.0\ref\02-OpenClosed.dll
+C:\Users\Yeşim\source\repos\SOLID\02-OpenClosed\obj\Debug\net6.0\02-OpenClosed.pdb
+C:\Users\Yeşim\source\repos\SOLID\02-OpenClosed\obj\Debug\net6.0\02-OpenClosed.genruntimeconfig.cache

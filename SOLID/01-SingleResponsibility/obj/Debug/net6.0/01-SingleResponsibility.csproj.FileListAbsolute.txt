@@ -1,0 +1,5 @@
+C:\Users\Yeşim\source\repos\SOLID\01-SingleResponsibility\obj\Debug\net6.0\01-SingleResponsibility.csproj.AssemblyReference.cache
+C:\Users\Yeşim\source\repos\SOLID\01-SingleResponsibility\obj\Debug\net6.0\01-SingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeşim\source\repos\SOLID\01-SingleResponsibility\obj\Debug\net6.0\01-SingleResponsibility.AssemblyInfoInputs.cache
+C:\Users\Yeşim\source\repos\SOLID\01-SingleResponsibility\obj\Debug\net6.0\01-SingleResponsibility.AssemblyInfo.cs
+C:\Users\Yeşim\source\repos\SOLID\01-SingleResponsibility\obj\Debug\net6.0\01-SingleResponsibility.csproj.CoreCompileInputs.cache
