@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R3nCDB7u7jJrIaXQhHXyUMtnORqY07MZ+Ng0E/YI/R9/fobHZK+rpn9+UjHmgHNMpLchzKbtbq6BstiQMy/sBg==",
+  "dgSpecHash": "B9EyxPU9HlfZndpfEwd1OLbEqnvk4jPbn5CJ72wPrq/uiWBJe+AhXOnQqfnGOPpVbVnn1P0WTxKpnL/P4c6KzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FURKAN\\Desktop\\SOLID\\03-LiskovSubstitution\\03-LiskovSubstitution.csproj",
+  "projectFilePath": "C:\\Users\\FURKAN\\Documents\\GitHub\\SOLID\\SOLID\\03-LiskovSubstitution\\03-LiskovSubstitution.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

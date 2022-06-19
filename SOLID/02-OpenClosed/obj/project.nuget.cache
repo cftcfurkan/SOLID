@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XBE5QM6QSsrh+Zs80+2xwmHlZRsXwr8EvY/VQSUyI+94GUKYrwL85qDKXe3nyg/PiJQZpYbyUvJpMjF47tS01Q==",
+  "dgSpecHash": "uHpE81bmEGeY4ROEJMT6DgiaxMXSWSdOmhs/xziArzA2ADa4I740/6R9ZePz2CXxj7/r8BUEg2eICyrFFbyCUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FURKAN\\Desktop\\SOLID\\02-OpenClosed\\02-OpenClosed.csproj",
+  "projectFilePath": "C:\\Users\\FURKAN\\Documents\\GitHub\\SOLID\\SOLID\\02-OpenClosed\\02-OpenClosed.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

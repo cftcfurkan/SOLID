@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FURKAN\\Desktop\\SOLID\\04-InterfaceSegregation\\04-InterfaceSegregation.csproj": {}
+    "C:\\Users\\FURKAN\\Documents\\GitHub\\SOLID\\SOLID\\04-InterfaceSegregation\\04-InterfaceSegregation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FURKAN\\Desktop\\SOLID\\04-InterfaceSegregation\\04-InterfaceSegregation.csproj": {
+    "C:\\Users\\FURKAN\\Documents\\GitHub\\SOLID\\SOLID\\04-InterfaceSegregation\\04-InterfaceSegregation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FURKAN\\Desktop\\SOLID\\04-InterfaceSegregation\\04-InterfaceSegregation.csproj",
+        "projectUniqueName": "C:\\Users\\FURKAN\\Documents\\GitHub\\SOLID\\SOLID\\04-InterfaceSegregation\\04-InterfaceSegregation.csproj",
         "projectName": "04-InterfaceSegregation",
-        "projectPath": "C:\\Users\\FURKAN\\Desktop\\SOLID\\04-InterfaceSegregation\\04-InterfaceSegregation.csproj",
+        "projectPath": "C:\\Users\\FURKAN\\Documents\\GitHub\\SOLID\\SOLID\\04-InterfaceSegregation\\04-InterfaceSegregation.csproj",
         "packagesPath": "C:\\Users\\FURKAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FURKAN\\Desktop\\SOLID\\04-InterfaceSegregation\\obj\\",
+        "outputPath": "C:\\Users\\FURKAN\\Documents\\GitHub\\SOLID\\SOLID\\04-InterfaceSegregation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

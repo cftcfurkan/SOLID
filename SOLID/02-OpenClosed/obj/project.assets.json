@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FURKAN\\Desktop\\SOLID\\02-OpenClosed\\02-OpenClosed.csproj",
+      "projectUniqueName": "C:\\Users\\FURKAN\\Documents\\GitHub\\SOLID\\SOLID\\02-OpenClosed\\02-OpenClosed.csproj",
       "projectName": "02-OpenClosed",
-      "projectPath": "C:\\Users\\FURKAN\\Desktop\\SOLID\\02-OpenClosed\\02-OpenClosed.csproj",
+      "projectPath": "C:\\Users\\FURKAN\\Documents\\GitHub\\SOLID\\SOLID\\02-OpenClosed\\02-OpenClosed.csproj",
       "packagesPath": "C:\\Users\\FURKAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FURKAN\\Desktop\\SOLID\\02-OpenClosed\\obj\\",
+      "outputPath": "C:\\Users\\FURKAN\\Documents\\GitHub\\SOLID\\SOLID\\02-OpenClosed\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

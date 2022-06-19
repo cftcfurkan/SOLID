@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eykaUX3Xlqy2/q85NYR81rcefnD8wmzps7VhyQl6q5AB4OskgvqdmmwTcSIdMqyXVHHOqfc/maiGRd/foih/xw==",
+  "dgSpecHash": "2XKaZ2Yio7MC4kymWW46K5ntIbiJO8A1mwk3+9Nb27YIF1e6XI+R0f5XVMImzlfq9DElmr4DwjE5/fWVVrXC0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FURKAN\\Desktop\\SOLID\\04-InterfaceSegregation\\04-InterfaceSegregation.csproj",
+  "projectFilePath": "C:\\Users\\FURKAN\\Documents\\GitHub\\SOLID\\SOLID\\04-InterfaceSegregation\\04-InterfaceSegregation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
